@@ -1,8 +1,8 @@
 # data-structures
 
 Implemented following Data Structures using Java Language :
-1.   Arrays
-2.   ArrayList
+1.   [Arrays](https://www.flowerbrackets.com/arrays-in-java/)
+2.   [ArrayList](https://www.flowerbrackets.com/arraylist-in-java/)
 3.   LinkedList
 4.   Doubly-LinkedList
 5.   Circular LinkedList
